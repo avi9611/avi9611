@@ -78,11 +78,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi9611&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avi9611&theme=radical&cache_bust=1" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avi9611&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
+
 
 ---
 
