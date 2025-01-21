@@ -14,9 +14,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Node.js, React.js, MongoDB**
+- 🌱 I’m currently learning **Kubernetes, PostgreSQL, AWS Cloud**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avi9611)
-- 💬 Ask me about **React, Redux, Django, JavaScript, Tailwind**
+- 💬 Ask me about **React, Nextjs, Django, JavaScript, Tailwind**
 - 📫 How to reach me: **avinashpoojary651@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Y7sp4KPaV7sBh7UaDDNHAgZPVxZ2AYMv/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am really good at research**
