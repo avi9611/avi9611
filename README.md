@@ -5,8 +5,6 @@
 
 ---
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avi9611&label=Profile%20views&color=0e75b6&style=flat" alt="avi9611" />
   <img src="https://img.shields.io/github/followers/avi9611?label=Followers&style=social" alt="followers" />
