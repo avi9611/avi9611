@@ -24,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avi9611)
 - 💬 Ask me about **React, Redux, Django, JavaScript, Tailwind**
 - 📫 How to reach me: **avinashpoojary651@gmail.com**
-- 📄 Know about my experiences: [My Resume]([https://drive.google.com/file/d/12cekrSTrR_UKCKtHwDAD4r4rseFyvlkq/view?usp=drive_link](https://drive.google.com/file/d/1Y7sp4KPaV7sBh7UaDDNHAgZPVxZ2AYMv/view?usp=drive_link))
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Y7sp4KPaV7sBh7UaDDNHAgZPVxZ2AYMv/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am really good at research**
 
 ---
