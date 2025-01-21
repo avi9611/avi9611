@@ -5,10 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="600" height="300">
-</div>
-
 ---
 
 <p align="center">
