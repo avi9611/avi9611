@@ -28,9 +28,6 @@
   <a href="https://linkedin.com/in/avinash-n-a99387286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/avinashpoojary651" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2300B4CC.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
   <a href="https://instagram.com/_a_viii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -42,6 +39,12 @@
   </a>
   <a href="https://app.daily.dev/avinashn" target="_blank">
     <img src="https://img.shields.io/badge/Daily.dev-%23000000.svg?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/avinashpomzls/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/0fcf1d40-5584-43b3-99a4-68868ec8c89e" target="_blank">
+    <img src="https://img.shields.io/badge/Coding Ninjas-%23FF5722.svg?style=for-the-badge&logo=codeninjas&logoColor=white" alt="Coding Ninjas" />
   </a>
 </p>
 
