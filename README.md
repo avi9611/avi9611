@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 Connect with Me [My Portfolio](https://avinash-n-portfolio.vercel.app/)
+- 👨‍💻 Connect with Me [My Portfolio](https://porfolioavi.web.app/)
 - 🌱 I’m currently learning **Kubernetes, PostgreSQL, AWS Cloud**
 - 💬 Ask me about **React, Nextjs, Django, JavaScript, Tailwind**
 - 📫 How to reach me: **avinashpoojary651@gmail.com**
