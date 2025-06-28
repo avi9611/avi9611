@@ -6,6 +6,17 @@
 ---
 
 <p align="center">
+  <a href="https://porfolioavi.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1cxsX1JpEHgDRGq-Qa8mThKyXNn_bAUyg/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-green?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=avi9611&label=Profile%20views&color=0e75b6&style=flat" alt="avi9611" />
   <img src="https://img.shields.io/github/followers/avi9611?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/avi9611?label=Stars&style=social" alt="stars" />
@@ -14,12 +25,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 Connect with Me [My Portfolio](https://porfolioavi.web.app/)
 - 🌱 I’m currently learning **Kubernetes, PostgreSQL, AWS Cloud**
 - 💬 Ask me about **React, Nextjs, Django, JavaScript, Tailwind**
 - 📫 How to reach me: **avinashpoojary651@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1SfbytnzGSG0q6qv93Ui_G_lWYciqlQ1V/view?usp=drive_link)
 - ⚡ Fun fact: **I think I am really good at research and debugging**
+
 
 ---
 
