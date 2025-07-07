@@ -25,13 +25,24 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Kubernetes, PostgreSQL, AWS Cloud**
-- 💬 Ask me about **React, Nextjs, Django, JavaScript, Tailwind**
-- 📫 How to reach me: **avinashpoojary651@gmail.com**
+<table>
+  <tr>
+    <td valign="top">
+
+- 🌱 I’m currently learning **Kubernetes, PostgreSQL, AWS Cloud**  
+- 💬 Ask me about **React, Nextjs, Django, JavaScript, Tailwind**  
+- 📫 How to reach me: **avinashpoojary651@gmail.com**  
 - ⚡ Fun fact: **I think I am really good at research and debugging**
 
+</td>
+<td>
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="120" alt="Azure Fundamentals Badge" />
+</td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🌐 Connect with Me
 <p align="center">
