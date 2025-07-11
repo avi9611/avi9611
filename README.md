@@ -109,14 +109,3 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avi9611&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✨ MY Quotes
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Lifelong+Learner;Problem+Solver;Open+Source+Contributor" alt="Typing Animation" />
-</p>
