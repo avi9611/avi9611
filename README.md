@@ -30,7 +30,6 @@
 ---
 
 ### 🌐 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/avinash-n-a99387286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_a_viii" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-critical?style=flat-square&logo=instagram" alt="Instagram" /></a>
@@ -44,22 +43,30 @@
 ---
 
 ### 🧰 Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-</div>
+
+#### Frontend
+HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, TailwindCSS, Bootstrap
+
+#### Backend
+Java, Python, Flask, Node.js, Express.js, SpringBoot
+
+#### Database
+MongoDB, MySQL, PostgreSQL
+
+#### Cloud Platforms
+Microsoft Azure, AWS, Firebase
+
+#### UI/UX
+Figma, Adobe Illustrator
+
+#### DevOps & Containerization
+Docker, GitHub Actions, Git, Kubernetes
+
+#### Testing
+Selenium, Postman, API Testing, Manual Testing
+
+#### Computer Science Fundamentals
+Data Structures & Algorithms, OOPS, DBMS, Operating System
 
 ---
 
