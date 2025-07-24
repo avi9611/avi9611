@@ -25,8 +25,11 @@
 - 📫 Reach me at: **avinashpoojary651@gmail.com**
 - 🧠 Strengths: **Researching and Debugging**
 
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Azure Fundamentals Badge" />
-<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="100" alt="leetcode badge" />
+<p>
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Azure Fundamentals Badge" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="100" alt="LeetCode badge" />
+</p>
+
 
 ---
 
