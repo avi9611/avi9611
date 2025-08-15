@@ -5,7 +5,7 @@
   <a href="https://porfolioavi.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=flat-square" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1cxsX1JpEHgDRGq-Qa8mThKyXNn_bAUyg/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1wrNQE9o9gK5Uu3M-rBtlT_6wlUsMfUgP/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=flat-square" alt="Resume" />
   </a>
 </p>
