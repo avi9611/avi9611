@@ -47,43 +47,52 @@
 
 ---
 
-### 🧰 Tech Stack
-<div align="center">
-<table>
-  <tr>
-    <th align="left">Frontend</th>
-    <td>HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, TailwindCSS, Bootstrap</td>
-  </tr>
-  <tr>
-    <th align="left">Backend</th>
-    <td>Java, Python, Flask, Node.js, Express.js, SpringBoot</td>
-  </tr>
-  <tr>
-    <th align="left">Database</th>
-    <td>MongoDB, MySQL, PostgreSQL</td>
-  </tr>
-  <tr>
-    <th align="left">Cloud Platforms</th>
-    <td>Microsoft Azure, AWS, Firebase</td>
-  </tr>
-  <tr>
-    <th align="left">UI/UX</th>
-    <td>Figma, Adobe Illustrator</td>
-  </tr>
-  <tr>
-    <th align="left">DevOps & Containerization</th>
-    <td>Docker, GitHub Actions, Git, Kubernetes</td>
-  </tr>
-  <tr>
-    <th align="left">Testing</th>
-    <td>Selenium, Postman, API Testing, Manual Testing</td>
-  </tr>
-  <tr>
-    <th align="left">CS Fundamentals</th>
-    <td>Data Structures & Algorithms, OOPS, DBMS, Operating System</td>
-  </tr>
-</table>
-</div>
+### 🧰 Tech Stack  
+
+<div align="center">  
+<table>  
+<tr>  
+  <th align="left">Frontend</th>  
+  <td>HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, TailwindCSS, Bootstrap</td>  
+</tr>  
+<tr>  
+  <th align="left">Backend</th>  
+  <td>Node.js, Java, Python, Express.js, SpringBoot</td>  
+</tr>  
+<tr>  
+  <th align="left">Database</th>  
+  <td>MongoDB, MySQL, PostgreSQL</td>  
+</tr>  
+<tr>  
+  <th align="left">AI Platforms & Tools</th>  
+  <td>OpenAI GPT-4, Anthropic Claude, Google Gemini, Azure OpenAI</td>  
+</tr>  
+<tr>  
+  <th align="left">AI Development Skills</th>  
+  <td>Prompt Engineering, Retrieval-Augmented Generation (RAG) Systems, AI API Integration</td>  
+</tr>  
+<tr>  
+  <th align="left">Cloud Platforms</th>  
+  <td>AWS (EC2, S3, Lambda, API Gateway), Microsoft Azure, GCP, Firebase</td>  
+</tr>  
+<tr>  
+  <th align="left">UI/UX</th>  
+  <td>Figma, Adobe Illustrator</td>  
+</tr>  
+<tr>  
+  <th align="left">DevOps & Containerization</th>  
+  <td>Docker, GitHub Actions, Git, GitKraken, Kubernetes</td>  
+</tr>  
+<tr>  
+  <th align="left">Testing</th>  
+  <td>Selenium, Postman, API Testing, Manual Testing</td>  
+</tr>  
+<tr>  
+  <th align="left">CS Fundamentals</th>  
+  <td>Data Structures & Algorithms, OOPS, DBMS, Operating System</td>  
+</tr>  
+</table>  
+</div>  
 
 ---
 
