@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - One thing I love more than development is coding. I love to code
-- 🔭 Currently diving deeper into **Kubernetes, PostgreSQL, and AWS**
+- 🔭 Currently diving deeper into **Gen AI, PostgreSQL, and AWS**
 - 💡 Interested in **React, Next.js, Django, JavaScript, and Tailwind CSS**
 - 📫 Reach me at: **avinashpoojary651@gmail.com**
 - 🧠 Strengths: **Researching and Debugging**
