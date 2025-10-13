@@ -1,5 +1,5 @@
 <h1 align="center">Avinash N</h1>
-<h3 align="center">Full Stack Developer | India</h3>
+<h3 align="center">Full Stack / Gen AI Developer | India</h3>
 
 <p align="center">
   <a href="https://porfolioavi.web.app/" target="_blank">
