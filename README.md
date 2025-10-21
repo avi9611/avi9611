@@ -18,13 +18,13 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - One thing I love more than development is coding. I love to code
-- 🔭 Currently diving deeper into **Gen AI, PostgreSQL, and AWS**
-- 💡 Interested in **React, Next.js, Django, JavaScript, and Tailwind CSS**
-- 📫 Reach me at: **avinashpoojary651@gmail.com**
-- 🧠 Strengths: **Researching and Debugging**
+-  Currently diving deeper into **Gen AI, PostgreSQL, and AWS**
+-  Interested in **React, Next.js, Django, JavaScript, and Tailwind CSS**
+-  Reach me at: **avinashpoojary651@gmail.com**
+-  Strengths: **Researching and Debugging**
 
 <p>
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Azure Fundamentals Badge" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/avinash-n-a99387286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_a_viii" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-critical?style=flat-square&logo=instagram" alt="Instagram" /></a>
@@ -47,7 +47,7 @@
 
 ---
 
-### 🧰 Tech Stack  
+###  Tech Stack  
 
 <div align="center">  
 <table>  
@@ -96,7 +96,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=avi9611&theme=tokyonight" alt="GitHub Streak" />
