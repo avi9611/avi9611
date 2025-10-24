@@ -24,7 +24,7 @@
 -  Currently diving deeper into **Gen AI, PostgreSQL, and AWS**
 -  Interested in **React, Next.js, Django, JavaScript, and Tailwind CSS**
 -  Reach me at: **avinashpoojary651@gmail.com**
--  Strengths: **Researching and Debugging**
+-  Strengths: **Researching and Development**
 
 <p>
   <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Azure Fundamentals Badge" />
