@@ -39,10 +39,7 @@
   <a href="https://linkedin.com/in/avinash-n-a99387286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_a_viii" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-critical?style=flat-square&logo=instagram" alt="Instagram" /></a>
   <a href="https://leetcode.com/u/avinash516/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/avinashpoojary61" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-success?style=flat-square&logo=hackerrank" alt="HackerRank" /></a>
   <a href="https://app.daily.dev/avinashn" target="_blank"><img src="https://img.shields.io/badge/Daily.dev-Blog-black?style=flat-square&logo=daily.dev" alt="Daily.dev" /></a>
-  <a href="https://www.geeksforgeeks.org/user/avinashpomzls/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-006400?style=flat-square&logo=geeksforgeeks" alt="GeeksforGeeks" /></a>
-  <a href="https://www.naukri.com/code360/profile/0fcf1d40-5584-43b3-99a4-68868ec8c89e" target="_blank"><img src="https://img.shields.io/badge/Coding Ninjas-Profile-FF5722?style=flat-square" alt="Coding Ninjas" /></a>
 </p>
 
 ---
