@@ -21,7 +21,7 @@
 ###  About Me
 
 -  Currently diving deeper into **Gen AI, PostgreSQL, and AWS**
--  Interested in **React, Next.js, Django, JavaScript, and Tailwind CSS**
+-  Interested in **React, Next.js, FastAPI, JavaScript, and Tailwind CSS**
 -  Reach me at: **avinashpoojary651@gmail.com**
 -  Strengths: **Researching and Development**
 
