@@ -49,8 +49,9 @@ Full Stack Developer specializing in **Generative AI integration** and modern we
 <div align="center">
   
 ![Microsoft Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
-![LeetCode 200+](https://assets.leetcode.com/static_assets/others/200.gif)
-![LeetCode 2025](https://assets.leetcode.com/static_assets/others/2025.gif)
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80" height="80" />
+<img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="80" height="80" />
+
 
 </div>
 
