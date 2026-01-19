@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-blue?style=for-the-badge&logo=firebase)](https://porfolioavi.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-blue?style=for-the-badge&logo=firebase)](https://avi9611.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Download_CV-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1wrNQE9o9gK5Uu3M-rBtlT_6wlUsMfUgP/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Contact-avinashpoojary651@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:avinashpoojary651@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avinash-n-a99387286)
