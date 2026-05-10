@@ -1,94 +1,87 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Generative+AI+Specialist;AWS+Cloud+Architect" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-blue?style=for-the-badge&logo=firebase)](https://avi9611.github.io)
-[![Resume](https://img.shields.io/badge/Resume-Download_CV-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1wrNQE9o9gK5Uu3M-rBtlT_6wlUsMfUgP/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/Contact-avinashpoojary651@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:avinashpoojary651@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avinash-n-a99387286)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-> Full Stack Developer specializing in **Generative AI integration** and modern web technologies. Currently focusing on **PostgreSQL optimization, AWS cloud architecture, and RAG implementations**. I build scalable solutions using React, Next.js, and cloud-native technologies.
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=avi9611&theme=flat&column=7&margin-w=15&no-bg=true" />
-  </a>
-</div>
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| **Frontend & UI** | **Backend & DB** | **AI & Cloud** |
-|:---:|:---:|:---:|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,redux" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgres,mongo,express" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,docker,k8s,githubactions,tensorflow" /></a> |
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-OpenAI_•_Gemini_•_Claude_•_RAG-412991?style=flat&logo=openai&logoColor=white" height="28" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-| **GitHub Stats** | **Most Used Languages** |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi9611&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" /> |
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avi9611&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak graph" />
-
-</div>
-
----
-
-### 🧩 Certifications & LeetCode
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80" alt="Azure" />
-        <br/><b>Azure Fundamentals</b>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/avinash516/">
-          <img src="https://leetcard.jacoblin.cool/avinash516?theme=tokyonight&font=poppins&ext=heatmap" alt="LeetCode Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🐍 Contribution History
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avi9611&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" width="100%" />
-</div>
-
-<br/>
+<h1 align="center">Avinash Neralakatte</h1>
 
 <p align="center">
-  <a href="https://app.daily.dev/avinashn" target="_blank">
-    <img src="https://img.shields.io/badge/Daily.dev-Read_my_Technical_Blog-black?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" />
-  </a>
+  <strong>Full-Stack Engineer building production FastAPI and Next.js applications</strong>
+</p>
+
+<p align="center">
+  I work across backend architecture, frontend delivery, PostgreSQL, Docker, caching, Celery workflows, and AI-powered product features.
+</p>
+
+<p align="center">
+  <a href="https://avi9611.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/avinash-n-a99387286/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:avinashpoojary651@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/file/d/1wrNQE9o9gK5Uu3M-rBtlT_6wlUsMfUgP/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-View-166534?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- Full-Stack Engineer at **Hybrid Interactive Consultancy LLP**
+- Building **client websites** and **CRM products** for medium-scale companies
+- Strongest stack: **FastAPI, Next.js, TypeScript, PostgreSQL, Docker**
+- Current focus: **clean architecture, background jobs, caching, and AI integrations**
+- Daily tooling: **Claude Code, Codex, GitHub Copilot**
+
+---
+
+## Selected Work
+
+### [Nadisa Solutions](https://www.nadisasolutions.com/)
+A chemistry career guidance platform built with Next.js, Firebase, admin workflows, SEO, and performance-first delivery.
+
+### [Visume](https://visume.co.in/)
+Contributed to a live AI video resume and hiring platform. Repository access is private, so I showcase the live product and my implementation contribution.
+
+### [ClickTalk](https://github.com/avi9611/Click-Talk-MERN-App)
+A realtime chat application with authentication, online presence, and an interactive product-style UI.
+
+### [Portfolio](https://avi9611.github.io)
+My personal portfolio, designed and built to present my work, experience, and project case studies with a more editorial visual system.
+
+---
+
+## Tech I Use Most
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgres,docker,aws,tailwind,firebase,git,githubactions" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Also%20working%20with-Celery%20•%20Caching%20•%20LLM%20Integrations%20•%20REST%20APIs-312e81?style=flat-square" alt="Also working with" />
+</p>
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi9611&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+</p>
+
+---
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/avinash-n-a99387286/)
+- [LeetCode](https://leetcode.com/u/avinash516/)
+- [Daily.dev](https://app.daily.dev/avinashn)
+
+---
+
+<p align="center">
+  <em>Focused on building reliable software that is clean to maintain and practical to ship.</em>
 </p>
