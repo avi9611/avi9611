@@ -25,9 +25,17 @@
 
 ## Executive Summary
 
-Full-Stack Engineer at **Hybrid Interactive Consultancy LLP**, building production websites and CRM products for medium-scale companies.
+Full-Stack Engineer at **Hybrid Interactive Consultancy LLP**, shipping **CRM platforms, ERP systems, and marketing / corporate websites** for medium-scale companies. Our team publishes its engineering standards and architecture playbook at [engineering.hybridinteractive.in](https://engineering.hybridinteractive.in/).
 
-My work spans **FastAPI backends**, **Next.js frontends**, **PostgreSQL**, **Docker**, **Celery**, **caching strategies**, and **AI-powered product features**. I focus on maintainable architecture, reliable delivery, and shipping software that works well in real environments.
+Day to day I work across **FastAPI backends**, **Next.js frontends**, **PostgreSQL**, **Docker**, **Celery** workflows, caching strategies, and **AI-powered product features** — focused on maintainable architecture and reliable delivery in real client environments.
+
+---
+
+## Engineering Philosophy
+
+- **Simplicity over cleverness** — boring, well-understood tech that actually ships and stays easy to operate.
+- **Quality through clean architecture** — clear module boundaries, explicit contracts, and code that the next engineer can read without a guide.
+- **Pragmatism over trend** — pick the tool that fits the constraint and the team, not the one currently on the front page.
 
 ---
 
@@ -136,6 +144,9 @@ My work spans **FastAPI backends**, **Next.js frontends**, **PostgreSQL**, **Doc
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-n-a99387286/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://engineering.hybridinteractive.in/">
+    <img src="https://img.shields.io/badge/Engineering%20Standards-Hybrid%20Interactive-1E3A8A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Hybrid Interactive Engineering Standards" />
   </a>
   <a href="https://avi9611.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Website-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
