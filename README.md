@@ -23,61 +23,36 @@
 
 ---
 
-## Executive Summary
+## About
 
-Full-Stack Engineer at **Hybrid Interactive Consultancy LLP**, shipping **CRM platforms, ERP systems, and marketing / corporate websites** for medium-scale companies. Our team publishes its engineering standards and architecture playbook at [engineering.hybridinteractive.in](https://engineering.hybridinteractive.in/).
+I build production **CRM platforms, ERP systems, and marketing / corporate websites** end-to-end — from API design and database modeling through to the customer-facing UI. The same engineering rigor has to translate across very different business workflows, from **healthcare** to **construction** to **e-commerce** clients.
 
-Day to day I work across **FastAPI backends**, **Next.js frontends**, **PostgreSQL**, **Docker**, **Celery** workflows, caching strategies, and **AI-powered product features** — focused on maintainable architecture and reliable delivery in real client environments.
+On the AI side, I integrate **LLM-powered features directly into product surfaces** — Pydantic AI for typed agent behavior, RAG pipelines over client data, and direct Anthropic / OpenAI API calls where a full agent framework would be overkill. I also work *agentically* in my day-to-day: **Claude Code, OpenAI Codex, and GitHub Copilot** are everyday tools, used with deliberate judgment about where the model accelerates real progress and where it just adds noise.
 
----
-
-## Engineering Philosophy
-
-- **Simplicity over cleverness** — boring, well-understood tech that actually ships and stays easy to operate.
-- **Quality through clean architecture** — clear module boundaries, explicit contracts, and code that the next engineer can read without a guide.
-- **Pragmatism over trend** — pick the tool that fits the constraint and the team, not the one currently on the front page.
+I care about **software craft** — clean architecture, clear separation of concerns, and codebases that stay maintainable as teams and products grow. Alongside the engineering team at Hybrid Interactive, I work on the shared foundations we reuse across projects: the [Engineering Standards](https://engineering.hybridinteractive.in/) hub, our production FastAPI backend template, and the Next.js frontend template that powers our customer-facing surfaces.
 
 ---
 
-## Professional Focus
+## What I Build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+| Area | Focus |
+| :--- | :--- |
+| **Full-Stack Product Delivery** | CRM platforms · ERP systems · Marketing & corporate sites |
+| **Backend Engineering** | FastAPI · Async SQLAlchemy · PostgreSQL · Celery · JWT + RBAC |
+| **Frontend Delivery** | Next.js · React · TypeScript · Tailwind · Responsive product UI |
+| **AI Feature Integration** | Pydantic AI · RAG pipelines · LLM APIs in real product workflows |
+| **Agentic Engineering** | Claude Code · OpenAI Codex · GitHub Copilot · used with engineering judgment |
+| **System Design** | Modular monoliths · Clean architecture · Scalable, maintainable APIs |
 
-### Backend Systems
-- FastAPI
-- REST API design
-- PostgreSQL
-- Background jobs
-- Caching strategies
-- Clean architecture
+---
 
-</td>
-<td width="33%" valign="top">
+## Notable Work
 
-### Frontend Delivery
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Responsive UI
-- Product-focused implementation
+Foundations I worked on with the team at Hybrid Interactive — reused as the starting point for our client engagements:
 
-</td>
-<td width="33%" valign="top">
-
-### Delivery and AI
-- Dockerized workflows
-- Production readiness
-- Client-facing delivery
-- LLM integrations
-- Claude Code / Codex / Copilot
-- Engineering velocity with quality
-
-</td>
-  </tr>
-</table>
+- **[Engineering Standards @ Hybrid Interactive](https://engineering.hybridinteractive.in/)** — Contributed to the company's engineering documentation hub: architecture patterns, tech stack decisions, frontend / backend standards, project structure guides, and AI-assisted coding workflows.
+- **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-template)** — Production-ready FastAPI service template with async SQLAlchemy, JWT + RBAC, Celery workers, and Docker. Reused as the base for multiple ERP and CRM backends.
+- **[Next.js Frontend Template](https://github.com/hybridinteract/nextjs-template)** — Opinionated Next.js + TypeScript + Tailwind starter, structured for the customer-facing surfaces of our products.
 
 ---
 
