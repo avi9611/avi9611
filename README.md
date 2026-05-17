@@ -17,7 +17,7 @@
   <a href="https://avi9611.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/avinash-n-a99387286/">
+  <a href="https://www.linkedin.com/in/avinash-n-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:avinashpoojary651@gmail.com">
@@ -129,7 +129,7 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash-n-a99387286/">
+  <a href="https://www.linkedin.com/in/avinash-n-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="https://engineering.hybridinteractive.in/">
