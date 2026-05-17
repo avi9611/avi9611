@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,45:102A43,100:1D4ED8&text=Avinash%20Neralakatte&fontSize=42&fontColor=EAF2FF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20FastAPI%20%7C%20Next.js%20%7C%20AI%20Integrations&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,40:1E3A8A,100:38BDF8&text=Avinash%20Neralakatte&fontSize=44&fontColor=EAF2FF&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20ERP%20%26%20CRM%20%E2%80%A2%20AI%20Features%20%E2%80%A2%20Agentic%20Workflows&descSize=17&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1400&color=93C5FD&center=true&vCenter=true&width=980&lines=Building+production-ready+web+applications;FastAPI+backends+%2B+Next.js+frontends;Docker%2C+PostgreSQL%2C+Celery%2C+Caching;AI-powered+features+and+engineering+workflows" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=93C5FD&center=true&vCenter=true&width=980&lines=Full-Stack+Engineer+%40+Hybrid+Interactive;Shipping+ERP+%26+CRM+platforms+across+Healthcare%2C+Construction%2C+E-commerce;LLM-powered+features+with+Pydantic+AI+and+RAG+pipelines;Agentic+engineering+with+Claude+Code%2C+Codex%2C+and+Copilot" alt="typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avi9611&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/avi9611?tab=followers">
+    <img src="https://img.shields.io/github/followers/avi9611?label=Followers&style=for-the-badge&color=0F172A&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
 </p>
 
 <p align="center">
@@ -59,26 +66,26 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
 ## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgres,docker,tailwind,aws,firebase,git,githubactions&perline=6" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,nextjs,react,ts,postgres,redis,docker,tailwind,aws,git,githubactions&perline=6" alt="tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20API%20Design%20%7C%20Architecture-0F172A?style=for-the-badge&labelColor=111827&color=1E3A8A" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20TypeScript-0F172A?style=for-the-badge&labelColor=111827&color=1D4ED8" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20PostgreSQL%20%7C%20Celery-0F172A?style=for-the-badge&labelColor=111827&color=2563EB" alt="Infra" />
-  <img src="https://img.shields.io/badge/AI-LLM%20Integrations%20%7C%20Workflow%20Automation-0F172A?style=for-the-badge&labelColor=111827&color=38BDF8" alt="AI" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%C2%B7%20Async%20SQLAlchemy%20%C2%B7%20Celery-0F172A?style=for-the-badge&labelColor=111827&color=1E3A8A" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript-0F172A?style=for-the-badge&labelColor=111827&color=1D4ED8" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Data%20%26%20Infra-PostgreSQL%20%C2%B7%20Redis%20%C2%B7%20Docker-0F172A?style=for-the-badge&labelColor=111827&color=2563EB" alt="Infra" />
+  <img src="https://img.shields.io/badge/AI-Pydantic%20AI%20%C2%B7%20RAG%20%C2%B7%20LLM%20APIs-0F172A?style=for-the-badge&labelColor=111827&color=38BDF8" alt="AI" />
 </p>
 
 ---
 
-## Current Priorities
+## Right Now
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Production%20FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js%20Frontend%20Delivery-102A43?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL%20%2B%20Caching-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Celery%20and%20Async%20Workflows-2563EB?style=for-the-badge" alt="Celery" />
-  <img src="https://img.shields.io/badge/AI%20Feature%20Integration-38BDF8?style=for-the-badge" alt="AI integrations" />
+  <img src="https://img.shields.io/badge/Shipping-Production%20ERP%20%26%20CRM%20platforms-0B1220?style=for-the-badge&logo=react&logoColor=white" alt="ERP CRM" />
+  <img src="https://img.shields.io/badge/Building-LLM%20features%20with%20Pydantic%20AI-102A43?style=for-the-badge&logo=python&logoColor=white" alt="Pydantic AI" />
+  <img src="https://img.shields.io/badge/Exploring-RAG%20pipelines%20over%20client%20data-1D4ED8?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Refining-FastAPI%20%26%20Next.js%20templates-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="Templates" />
+  <img src="https://img.shields.io/badge/Practicing-Agentic%20engineering%20daily-38BDF8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic" />
 </p>
 
 ---
@@ -86,8 +93,8 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi9611&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avi9611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi9611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -95,15 +102,20 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avi9611&bg_color=0B1220&color=93C5FD&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avi9611&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avi9611&bg_color=0B1220&color=93C5FD&line=3B82F6&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </p>
 
 ---
 
-## Credentials and Coding Practice
+## Certifications & Practice
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+  <img src="https://img.shields.io/badge/Engineering%20@-Hybrid%20Interactive-1E3A8A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Hybrid Interactive" />
 </p>
 
 <p align="center">
@@ -114,7 +126,7 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
 
 ---
 
-## Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-n-a99387286/">
@@ -126,11 +138,22 @@ Foundations I worked on with the team at Hybrid Interactive — reused as the st
   <a href="https://avi9611.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Website-1D4ED8?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
   </a>
+  <a href="mailto:avinashpoojary651@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://app.daily.dev/avinashn">
     <img src="https://img.shields.io/badge/Daily.dev-Profile-111827?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev Profile" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <em>Focused on building reliable software that is clean to maintain and practical to ship.</em>
+  <em>Building reliable software — clean to maintain, practical to ship.</em>
+  <br/>
+  <sub><strong>Open to collaboration on backend, frontend, and AI-product work.</strong></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38BDF8,50:1E3A8A,100:0B1220&section=footer" alt="footer" />
 </p>
