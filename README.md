@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,40:1E3A8A,100:38BDF8&text=Avinash%20Neralakatte&fontSize=44&fontColor=EAF2FF&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20ERP%20%26%20CRM%20%E2%80%A2%20AI%20Features%20%E2%80%A2%20Agentic%20Workflows&descSize=17&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,40:1E3A8A,100:38BDF8&text=Avinash%20Neralakatte&fontSize=44&fontColor=EAF2FF&fontAlignY=34&desc=Full-Stack%20Engineer%20%E2%80%A2%20ERP%20and%20CRM%20%E2%80%A2%20AI%20Features%20%E2%80%A2%20Agentic%20Workflows&descSize=17&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=93C5FD&center=true&vCenter=true&width=980&lines=Full-Stack+Engineer+%40+Hybrid+Interactive;Shipping+ERP+%26+CRM+platforms+across+Healthcare%2C+Construction%2C+E-commerce;LLM-powered+features+with+Pydantic+AI+and+RAG+pipelines;Agentic+engineering+with+Claude+Code%2C+Codex%2C+and+Copilot" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=93C5FD&center=true&vCenter=true&width=980&lines=Full-Stack+Engineer+%40+Hybrid+Interactive;Shipping+ERP+and+CRM+platforms+across+Healthcare%2C+Construction%2C+E-commerce;LLM-powered+features+with+Pydantic+AI+and+RAG+pipelines;Agentic+engineering+with+Claude+Code%2C+Codex%2C+and+Copilot" alt="typing intro" />
 </p>
 
 <p align="center">
