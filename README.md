@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=93C5FD&center=true&vCenter=true&width=940&lines=Full-Stack+Engineer+%40+Hybrid+Interactive+%C2%B7+Kochi;Eight+production+products+across+six+industries;18-module+lead-to-cash+CRM+for+a+UAE+calibration+lab;I+wrote+the+templates+and+conventions+my+team+builds+on" alt="Full-Stack Engineer at Hybrid Interactive, Kochi. Eight production products across six industries." />
-</p>
-
-<p align="center">
   <a href="https://avi9611.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://avi9611.github.io/blog"><img src="https://img.shields.io/badge/Blog-1E3A8A?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/avinash-n-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
