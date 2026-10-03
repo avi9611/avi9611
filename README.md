@@ -101,10 +101,14 @@ Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-tem
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-dark.svg" />
-  <img alt="Contributions in the last year, drawn as a 3D skyline" src="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-light.svg" width="100%" />
-</picture>
+<a href="https://avi9611.github.io/activity/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-dark.svg" />
+    <img alt="Contributions in the last year, drawn as a 3D skyline" src="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-light.svg" width="100%" />
+  </picture>
+</a>
+
+<p align="center"><sub><a href="https://avi9611.github.io/activity/"><strong>Explore it →</strong></a> switch to the flat heat map, hover any day, drag to turn the skyline</sub></p>
 
 <br/>
 

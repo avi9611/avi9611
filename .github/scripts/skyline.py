@@ -375,6 +375,9 @@ def main():
         path = args.out / f"skyline-{name}.svg"
         path.write_text(render(cells, theme), encoding="utf-8")
         print(f"Wrote {path}")
+    # The interactive version at avi9611.github.io/activity reads this file in the browser.
+    (args.out / "days.json").write_text(json.dumps(days, separators=(",", ":")), encoding="utf-8")
+    print(f"Wrote {args.out / 'days.json'}")
 
 
 if __name__ == "__main__":
