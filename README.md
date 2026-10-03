@@ -99,6 +99,15 @@ Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-tem
 
 <br/>
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-dark.svg" />
+  <img alt="Contributions in the last year, drawn as a 3D skyline" src="https://raw.githubusercontent.com/avi9611/avi9611/output/skyline-light.svg" width="100%" />
+</picture>
+
+<br/>
+
 ## Selected personal work
 
 | Project | What it is | Stack |
