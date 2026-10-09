@@ -18,13 +18,11 @@ I build **line-of-business software** — the CRM, ERP, hospital and HR systems 
 
 The hard parts of this work are rarely the framework. They are the tenancy model, the audit trail, the state machine that decides what a document is allowed to become next, and whether the person who picks the code up after me can still read it. My largest system is a lead-to-cash CRM for a UAE medical-equipment calibration laboratory: **18 business modules**, multi-branch, audit-backed, built to contractual SLA targets. I wrote **98% of both its backend and frontend repositories**.
 
-On the AI side I integrate LLM features into real product surfaces — **Pydantic AI** for typed agent behaviour, **RAG pipelines** over client data, and direct API calls where a full agent framework would be overkill. I work agentically day to day with **Claude Code, Codex and Copilot**, with deliberate judgement about where a model speeds up real progress and where it just adds noise.
+On the AI side I integrate LLM features into real product surfaces — **Pydantic AI** for typed agent behaviour, **RAG pipelines** over client data, and direct API calls where a full agent framework would be overkill. I use **Claude Code, Codex and Copilot** daily.
 
 <br/>
 
 ## Standards I wrote
-
-> Client work is what I ship. These are what my team builds on.
 
 <table>
 <tr>
@@ -54,7 +52,7 @@ A portable folder you copy into a new backend on **day one**. 30 concern guides 
 </a>
 <img src="https://img.shields.io/badge/Sole%20author-18%20of%2018%20commits-1D4ED8?style=flat-square&labelColor=111827" alt="Sole author" />
 
-Built and documented on my own. 143 files: **BFF cookie auth** so tokens never reach JavaScript, **RBAC** gating navigation and components, TanStack Query, Vitest and Playwright. Documented in **17 numbered rule guides** so the reasoning survives me.
+Built and documented on my own. 143 files: **BFF cookie auth** so tokens never reach JavaScript, **RBAC** gating navigation and components, TanStack Query, Vitest and Playwright. Documented in **17 numbered rule guides** so the next developer knows why each rule exists.
 
 **[Read it →](https://github.com/hybridinteract/nextjs-template)**
 
@@ -83,7 +81,7 @@ Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-tem
 | **Architecture** | Modular monoliths · multi-tenancy · RBAC · append-only audit trails |
 | **Reliability** | Background workers · caching · Prometheus · structured logging |
 | **AI in product** | Pydantic AI · RAG pipelines · LLM APIs in real workflows |
-| **Practice** | Written standards · architecture decision records · docs that carry a date |
+| **Practice** | Written standards · architecture decision records · dated, maintained docs |
 
 <br/>
 
@@ -127,8 +125,6 @@ Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-tem
 <br/>
 
 <p align="center">
-  <em>Build for the person debugging this at 2am, not the person reading it today.</em>
-  <br/>
   <sub><strong>Open to conversations about backend architecture and product delivery.</strong></sub>
 </p>
 
