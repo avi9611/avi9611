@@ -14,15 +14,15 @@
 
 ## About
 
-I build **line-of-business software** — the CRM, ERP, hospital and HR systems a company's daily operations depend on. At Hybrid Interactive I have shipped **eight production products** across healthcare, hospitality, construction, calibration, sales and HR.
+I build **line-of-business software** — the CRM, ERP, hospital and HR systems a company's daily operations depend on. At Hybrid Interactive I have shipped **eight production products** with the team, across healthcare, hospitality, construction, calibration, sales and HR.
 
-The hard parts of this work are rarely the framework. They are the tenancy model, the audit trail, the state machine that decides what a document is allowed to become next, and whether the person who picks the code up after me can still read it. My largest system is a lead-to-cash CRM for a UAE medical-equipment calibration laboratory: **18 business modules**, multi-branch, audit-backed, built to contractual SLA targets. I wrote **98% of both its backend and frontend repositories**.
+The hard parts of this work are rarely the framework. They are the tenancy model, the audit trail, the state machine that decides what a document is allowed to become next, and whether the person who picks the code up after me can still read it. The largest system I have worked on is a lead-to-cash CRM for a UAE medical-equipment calibration laboratory: **18 business modules**, multi-branch, audit-backed, built to contractual SLA targets. I was the lead developer, across both the backend and the frontend.
 
 On the AI side I integrate LLM features into real product surfaces — **Pydantic AI** for typed agent behaviour, **RAG pipelines** over client data, and direct API calls where a full agent framework would be overkill. I use **Claude Code, Codex and Copilot** daily.
 
 <br/>
 
-## Standards I wrote
+## Standards for the team
 
 <table>
 <tr>
@@ -50,9 +50,10 @@ A portable folder you copy into a new backend on **day one**. 30 concern guides 
 <a href="https://github.com/hybridinteract/nextjs-template">
   <img src="https://img.shields.io/badge/Public-hybridinteract%2Fnextjs--template-0F172A?style=flat-square&logo=github&logoColor=white" alt="Repository" />
 </a>
-<img src="https://img.shields.io/badge/Sole%20author-18%20of%2018%20commits-1D4ED8?style=flat-square&labelColor=111827" alt="Sole author" />
+<img src="https://img.shields.io/github/stars/hybridinteract/nextjs-template?style=flat-square&color=1E3A8A&labelColor=111827" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/hybridinteract/nextjs-template?style=flat-square&color=1E3A8A&labelColor=111827" alt="Last commit" />
 
-Built and documented on my own. 143 files: **BFF cookie auth** so tokens never reach JavaScript, **RBAC** gating navigation and components, TanStack Query, Vitest and Playwright. Documented in **17 numbered rule guides** so the next developer knows why each rule exists.
+The template new client frontends start from. 143 files: **BFF cookie auth** so tokens never reach JavaScript, **RBAC** gating navigation and components, TanStack Query, Vitest and Playwright. Documented in **17 numbered rule guides** so the next developer knows why each rule exists.
 
 **[Read it →](https://github.com/hybridinteract/nextjs-template)**
 
@@ -60,7 +61,7 @@ Built and documented on my own. 143 files: **BFF cookie auth** so tokens never r
 </tr>
 </table>
 
-Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-template)** (co-designed — routes hold no business logic, services own the transaction boundary, data access never commits) and the company's public **[Engineering Standards hub](https://engineering.hybridinteractive.in/)**.
+Also: **[FastAPI Backend Template](https://github.com/hybridinteract/fastapi-template)** (which I helped design: routes hold no business logic, services own the transaction boundary, data access never commits) and the company's public **[Engineering Standards hub](https://engineering.hybridinteractive.in/)**.
 
 <br/>
 
